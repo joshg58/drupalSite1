@@ -1,3 +1,4 @@
+TEST COMMIT 3
 
 CONTENTS OF THIS FILE
 ---------------------
