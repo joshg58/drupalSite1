@@ -4,7 +4,6 @@ CONTENTS OF THIS FILE
 
  * About Drupal
  * Configuration and features
- * Appearance
  * Developing for Drupal
 
 ABOUT DRUPAL
@@ -51,6 +50,8 @@ extensions that set fonts, colors, and layout). Drupal core comes with several
 themes. More themes are available for download, and you can also create your own
 custom theme.
 
+This is also a new line!
+
 More about themes:
  * Download contributed themes to sites/all/themes to modify Drupal's
    appearance:
@@ -68,6 +69,8 @@ standardize common operations such as database queries and form generation. The
 flexible hook architecture means that you should never need to directly modify
 the files that come with Drupal core to achieve the functionality you want;
 instead, functionality modifications take the form of modules.
+
+This is a new line....
 
 When you need new functionality for your Drupal site, search for existing
 contributed modules. If you find a module that matches except for a bug or an
